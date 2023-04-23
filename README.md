@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-i love dancng
+i love dancing
